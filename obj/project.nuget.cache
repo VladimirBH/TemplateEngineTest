@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+lTNlumcwg867L/aYrTAfLgmjv3hfrJ/EE1s6CIOC2sEIDl5pLlAaIkCw3nch3ksJshpT5Kzohvj9MmG/yW70g==",
+  "success": true,
+  "projectFilePath": "D:\\for_work\\Vacancy\\TemplateEngineTest\\TemplateEngineTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladi\\.nuget\\packages\\docx\\3.0.0\\docx.3.0.0.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
